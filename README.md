@@ -1,16 +1,16 @@
-# 🎉 Fun Calculator 🎉
+#  Fun Calculator 
 
-A simple and fun calculator that performs basic arithmetic operations on two numbers. Add, subtract, multiply, and divide like a boss! 😎
+A simple and fun calculator that performs basic arithmetic operations on two numbers. Add, subtract, multiply, and divide 
 
-## Features ✨
+## Features 
 - ➕ Addition
 - ➖ Subtraction
 - ✖️ Multiplication
 - ➗ Division
 - Supports decimal numbers (float)
-- Fun and colorful output 🎨
+- Fun and colorful output 
 
-## How to Use 🚀
+## How to Use 
 1. Run the Python script in your terminal or IDE.
 2. Enter the first number when prompted.
 3. Enter the second number when prompted.
@@ -20,7 +20,7 @@ A simple and fun calculator that performs basic arithmetic operations on two num
    - Product (multiplication result)
    - Quotient (division result)
 
-## Example Usage 💻
+## Example Usage 
 ```bash
 Enter the first number: 10.5
 Enter the second number: 2
